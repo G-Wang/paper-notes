@@ -1,3 +1,3 @@
 
 ## Reinforcement Learning
-- [Deep Reinforcement Learning for Human Preference](paper-notes/RL/human_annotate.md)
+- [Deep Reinforcement Learning for Human Preference](human_annotate.md)
