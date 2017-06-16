@@ -1,3 +1,3 @@
 
 ## Reinforcement Learning
-- [Deep Reinforcement Learning for Human Preference](human_annotate.md)
+- [Deep Reinforcement Learning for Human Preference](RL)
